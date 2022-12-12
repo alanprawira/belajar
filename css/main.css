@@ -1,0 +1,8 @@
+body {
+    font-family: Sans Jakarta Sans, sans-serif;}
+
+    h1 {color: orange;background-color:green;}
+    p:hover {background-color: aqua;transition: 300ms;}
+
+    input:focus {
+        background-color: brown;
